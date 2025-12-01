@@ -10,7 +10,7 @@ Outils : VS Code, Github, Spyder
 
 📌 Ce que je fais en ce moment :
 
-J’apprends le java et l'UML
+J’apprends le java et l'UML<br>
 Je bosse sur des projets perso ou pour l'IUT
 
 📫 Me contacter
