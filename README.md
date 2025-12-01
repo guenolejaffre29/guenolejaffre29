@@ -8,9 +8,10 @@ Langages : Python, Java, HTML/CSS
 
 Outils : VS Code, Github, Spyder
 
-📌 Ce que je fais en ce moment
+📌 Ce que je fais en ce moment :
 
-📚 J’apprends le java et l'UML
+J’apprends le java et l'UML
+Je bosse sur des projets perso ou pour l'IUT
 
 📫 Me contacter
 
