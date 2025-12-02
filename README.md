@@ -19,3 +19,8 @@ Email : guenole.gjd@gmail.com
 
 LinkedIn : https://www.linkedin.com/in/gu%C3%A9nol%C3%A9-jaffre-devouge-152a9338a/
 
+Mes projets juste en dessous !
+
+           |
+           |
+           V
